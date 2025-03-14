@@ -14,7 +14,7 @@ Ensure you have Python installed on your system (Python 3+). The script uses the
 ## Installation
 1. Clone this repository or download the script:
    ```
-   git clone https://github.com/your-repo/random-password-generator.git
+   git clone https://github.com/KARTHIK2735/Random-Password-Generator.git
    cd random-password-generator
    ```
 2. Run the script:
