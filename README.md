@@ -1,4 +1,3 @@
-# Random-Password-Generator
 # Random Password Generator (GUI)
 A simple Python application with a graphical user interface (GUI) to generate strong passwords and passphrases. The GUI allows users to specify the desired length or word count and generates either a random password or a secure passphrase.
 
